@@ -24,7 +24,7 @@ JSON. Details soon.
 
 ### How is the interaction between Gateway and feature backend is organized?
 
-In general \u2014 JSON over some transport. Whatever way works for you. Though I want to support two transports \u2014 HTTP and UNIX pipes.
+In general — JSON over some transport. Whatever way works for you. Though I want to support two transports — HTTP and UNIX pipes.
 
 ### Do I need to know Erlang in order to use FED?
 
