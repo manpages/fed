@@ -16,7 +16,7 @@ FED is a framework to rapidly develop feature-oriented applications in any progr
 Feature-oriented programming is a way to rapidly write projects of any sort. When we implement a feature, we have it's formal description that enlists what does it provide and what features does it consume in order to work correctly.
 It optionally can declare something similar to application-level protocol of interaction.
 
-Those definitions are fed to the FED Gateway which is a part of a virtual cluster and programmer has to do little to none to receive data from the features his feature relies on \u2014 just make a request to the Gateway and let it handle the rest.
+Those definitions are fed to the FED Gateway which is a part of a virtual cluster and programmer has to do little to none to receive data from the features his feature relies on — just make a request to the Gateway and let it handle the rest.
 
 ### How are the features described?
 
